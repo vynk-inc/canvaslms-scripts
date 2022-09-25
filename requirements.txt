@@ -1,7 +1,0 @@
-canvasapi
-certifi
-chardet
-idna
-pytz
-requests
-urllib3

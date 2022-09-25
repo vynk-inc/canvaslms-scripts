@@ -11,6 +11,7 @@ idna = "*"
 pytz = "*"
 requests = "*"
 urllib3 = "*"
+faker = "*"
 
 [dev-packages]
 
